@@ -5,5 +5,5 @@
 ![GitHub followers](https://img.shields.io/github/followers/byhartvig?label=Follow&style=social)
 
 </br>
-![Alt Text](https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif)
+![This is an image](https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif)
 
