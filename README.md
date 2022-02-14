@@ -8,8 +8,8 @@
 #### Done
 - [x] ☘️ Building Slick UI for [Klimabiler](https://klimabiler.dk)
  
+ #### Focused on this week
 <!--START_SECTION:waka-->
-#### Focused on this week
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=byhartvig&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
 <!--END_SECTION:waka-->
 
