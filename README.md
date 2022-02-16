@@ -11,6 +11,8 @@
  #### Focused on this week
 <!--START_SECTION:waka-->
 ```text
+Total: 1 hr 3 mins
+
 JavaScript   50 mins         ███████████████████▓░░░░░   78.39 % 
 CSS          9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 % 
 HTML         3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
