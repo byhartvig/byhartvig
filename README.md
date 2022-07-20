@@ -2,11 +2,11 @@
 
 #### Now
 - [ ] 💻 Trying to figure out React
-- [ ] 🚀 Building personal dashboard for my office
 - [ ] 📕 Reading
 
 #### Done
 - [x] ☘️ Building Slick UI for [Klimabiler](https://klimabiler.dk)
+- [x] 🚀 Building personal dashboard for my office
  
  #### Focused on this week
 <!--START_SECTION:waka-->
