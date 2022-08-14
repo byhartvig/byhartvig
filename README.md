@@ -12,9 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-SCSS         1 hr 8 mins     █████████▒░░░░░░░░░░░░░░░   36.94 %
-CSHTML       1 hr            ████████░░░░░░░░░░░░░░░░░   32.42 %
-Other        35 mins         █████░░░░░░░░░░░░░░░░░░░░   19.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
