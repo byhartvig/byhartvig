@@ -12,10 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   4 hrs 3 mins    █████████░░░░░░░░░░░░░░░░   36.62 %
-CSHTML       3 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   27.75 %
-SCSS         2 hrs 2 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
-Other        1 hr 31 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.77 %
+CSHTML       4 hrs 10 mins   ███████▓░░░░░░░░░░░░░░░░░   30.92 %
+JavaScript   4 hrs 7 mins    ███████▓░░░░░░░░░░░░░░░░░   30.58 %
+SCSS         2 hrs 25 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.90 %
+Other        1 hr 53 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
 ```
 
 <!--END_SECTION:waka-->
