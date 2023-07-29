@@ -12,11 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-HTML         3 hrs 32 mins   █████████████████████▒░░░   85.63 %
-JavaScript   20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 %
-Git Config   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-CSS          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
