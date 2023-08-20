@@ -12,8 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 54 mins    ████████████████████░░░░░   79.46 %
-Svelte       29 mins         █████░░░░░░░░░░░░░░░░░░░░   20.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
