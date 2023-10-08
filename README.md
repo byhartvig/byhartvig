@@ -12,10 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CSHTML       4 mins          ██████████████▒░░░░░░░░░░   56.80 %
-JavaScript   1 min           ██████░░░░░░░░░░░░░░░░░░░   23.88 %
-GDScript3    1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 %
-C#           0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
