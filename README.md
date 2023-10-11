@@ -12,7 +12,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C#           1 min           ███████████▒░░░░░░░░░░░░░   45.14 %
+JSON         1 min           ███████▓░░░░░░░░░░░░░░░░░   30.62 %
+JavaScript   0 secs          ██████░░░░░░░░░░░░░░░░░░░   24.24 %
+CSHTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
