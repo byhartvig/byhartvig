@@ -12,11 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   2 hrs 29 mins   ██████████████████████▒░░   89.29 %
-CSHTML       11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
-JavaScript   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-TSConfig     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Binary       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+TypeScript   2 hrs 18 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
