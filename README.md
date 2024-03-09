@@ -12,10 +12,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   6 hrs 55 mins   ████████████████████████▓   99.02 %
-CSHTML       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-SCSS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript   8 hrs 6 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
