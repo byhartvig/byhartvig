@@ -1,12 +1,13 @@
-## Hey there, Welcome to my github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# 🚀 Frontend Developer | UI/UX Enthusiast  
 
-#### Now
-- [ ] 💻 Trying to figure out React
-- [ ] 📕 Reading
+Passionate about crafting intuitive and high-performance web applications.  
+I specialize in **React (Next.js)**, **TailwindCSS**, and **PostgreSQL (Supabase)** to build modern, scalable, and user-friendly experiences.  
 
-#### Done
-- [x] ☘️ Building Slick UI for [Klimabiler](https://klimabiler.dk)
-- [x] 🚀 Building personal dashboard for my office
+- 🎨 Focused on clean, functional, and aesthetic interfaces  
+- 🔧 Exploring best practices in frontend architecture  
+- 🚀 Building SaaS & UI-driven projects  
+
+💡 Always learning, optimizing, and pushing the boundaries of frontend development.
  
  #### Focused on this week
 <!--START_SECTION:waka-->
