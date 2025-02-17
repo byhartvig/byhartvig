@@ -3,11 +3,11 @@
 Passionate about crafting intuitive and high-performance web applications.  
 I specialize in **React (Next.js)**, **TailwindCSS**, and **PostgreSQL (Supabase)** to build modern, scalable, and user-friendly experiences.  
 
-- 🎨 Focused on clean, functional, and aesthetic interfaces  
-- 🔧 Exploring best practices in frontend architecture  
-- 🚀 Building SaaS & UI-driven projects  
+- Focused on clean, functional, and aesthetic interfaces  
+- Exploring best practices in frontend architecture  
+- Building SaaS & UI-driven projects  
 
-💡 Always learning, optimizing, and pushing the boundaries of frontend development.
+Always learning, optimizing, and pushing the boundaries of frontend development.
  
  #### Focused on this week
 <!--START_SECTION:waka-->
