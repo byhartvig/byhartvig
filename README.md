@@ -1,4 +1,4 @@
-# 🚀 Frontend Developer | UI/UX Enthusiast  
+### Frontend Developer | UI/UX Enthusiast  
 
 Passionate about crafting intuitive and high-performance web applications.  
 I specialize in **React (Next.js)**, **TailwindCSS**, and **PostgreSQL (Supabase)** to build modern, scalable, and user-friendly experiences.  
